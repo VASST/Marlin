@@ -121,9 +121,6 @@ tags
 lib/readme.txt
 
 #Visual Studio
-*.sln
-*.vcxproj
-*.vcxproj.filters
 Marlin/Release/
 Marlin/Debug/
 Marlin/__vm/
